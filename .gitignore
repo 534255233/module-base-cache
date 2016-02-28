@@ -1,0 +1,18 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.prefs
+bin
+.metadata
+Servers
+RemoteSystemsTempFiles
+.myeclipse
+target
+.idea
+.recommenders
+*.classpath
+.project
+.settings
