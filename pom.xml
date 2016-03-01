@@ -9,4 +9,12 @@
   <artifactId>module-base-cache</artifactId>
   <name>cache util</name>
   <description>缓存</description>
+  
+  <dependencies>
+  	<dependency>
+		<groupId>redis.clients</groupId>
+		<artifactId>jedis</artifactId>
+	</dependency>
+	
+  </dependencies>
 </project>
